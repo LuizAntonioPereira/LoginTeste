@@ -1,0 +1,6 @@
+C:\Users\Cliente\Documents\GodotTemplate\LoginTeste\.mono\temp\obj\Tools\Login Teste.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\GodotTemplate\LoginTeste\.mono\temp\obj\Tools\Login Teste.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\GodotTemplate\LoginTeste\.mono\temp\bin\Tools\Login Teste.dll
+C:\Users\Cliente\Documents\GodotTemplate\LoginTeste\.mono\temp\bin\Tools\Login Teste.pdb
+C:\Users\Cliente\Documents\GodotTemplate\LoginTeste\.mono\temp\obj\Tools\Login Teste.dll
+C:\Users\Cliente\Documents\GodotTemplate\LoginTeste\.mono\temp\obj\Tools\Login Teste.pdb
